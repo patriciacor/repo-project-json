@@ -1,0 +1,93 @@
+[
+    {
+         "id": 1,
+            "nombre": "REMOLACHA POR UNIDAD",
+            "precioUnitario": 60,
+            "stock": 50
+            
+        },
+        {   
+            "id": 2,
+            "nombre": "ZANAHORIA POR KG",
+            "precioUnitario": 39,
+            "stock": 120
+        },
+        {   
+            "id": 3,
+            "nombre": "PAPA POR KG",
+            "precioUnitario": 48,
+            "stock": 300
+        },
+        {   
+            "id": 4,
+            "nombre": "PALTA POR UNIDAD",
+            "precioUnitario": 55,
+            "stock": 100
+        },
+        {   
+            "id": 5,
+            "nombre": "TOMATE POR KG",
+            "precioUnitario": 69,
+            "stock": 180
+        },
+        {   
+            "id": 6,
+            "nombre": "UVAS POR KG",
+            "precioUnitario": 120,
+            "stock": 140
+        },
+        {   
+            "id": 7,
+            "nombre": "MANZANA POR KG",
+            "precioUnitario": 49,
+            "stock": 150
+        },
+        {   
+            "id": 8,
+            "nombre": "PERA POR KG",
+            "precioUnitario": 89,
+            "stock": 180
+        },
+        {   
+            "id": 9,
+            "nombre": "ZAPALLITOS POR KG",
+            "precioUnitario": 49,
+            "stock": 90
+        },
+        {   
+            "id": 10,
+            "nombre": "BANANAS POR KG",
+            "precioUnitario": 59,
+            "stock": 250
+        },
+        {   
+            "id": 11,
+            "nombre": "MANDARINA POR KG",
+            "precioUnitario": 42,
+            "stock": 300
+        },
+        {   
+            "id": 12,
+            "nombre": "NARANJA POR KG",
+            "precioUnitario": 60,
+            "stock": 200
+        },
+        {   
+            "id": 13,
+            "nombre": "ZAPALLO KABUTIA POR KG",
+            "precioUnitario": 39,
+            "stock": 100
+        },
+        {   
+            "id": 14,
+            "nombre": "BONIATOS POR KG",
+            "precioUnitario": 59,
+            "stock": 250
+        },
+        {   
+            "id": 15,
+            "nombre": "LIMON POR KG",
+            "precioUnitario": 65,
+            "stock": 180
+        }
+]
